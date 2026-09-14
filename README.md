@@ -155,4 +155,4 @@ Python-PSA-PDS/
 
 ## License
 
-Not specified.
+Apache License 2.0
